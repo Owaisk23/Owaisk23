@@ -39,14 +39,3 @@ Hardware familiarity: Arduino Uno, NodeMCU, STM32F3 Discovery board, RaspberryPi
 </a>
 
 <br />
-
-#### 📊 Stats :
-
-<div style="display: flex;">
-
-[![Owais Khan's github stats](https://github-readme-stats.vercel.app/api?username=Owaisk23&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Owaisk23&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
